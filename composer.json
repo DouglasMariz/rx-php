@@ -1,0 +1,17 @@
+{
+    "name": "italolelis/rx-programming",
+    "description": "Reactive Extensions PHP exemple",
+    "require": {
+        "easyframework/collections": "~3.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Italo Lelis",
+            "email": "italo@voxtecnologia.com.br"
+        }
+    ]
+}
